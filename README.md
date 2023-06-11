@@ -1,5 +1,5 @@
 <h2>Hi, I'm Dzagcoffee! 👋</h2>
-<img align='right' width="420" src="https://64.media.tumblr.com/5267b4cbf5e94333b8b620fb87a09252/tumblr_prlro2RUTG1ue4ngy_500.gifv">
+<img align='right' width="400" src="https://64.media.tumblr.com/5267b4cbf5e94333b8b620fb87a09252/tumblr_prlro2RUTG1ue4ngy_500.gifv">
 
 ### About me... 
 <p>My name is <b>Amur</b>, I explore ML and you can see the results of my learning in thi git.</p>
