@@ -2,9 +2,9 @@
 <img align='right' width="400" src="https://64.media.tumblr.com/5267b4cbf5e94333b8b620fb87a09252/tumblr_prlro2RUTG1ue4ngy_500.gifv">
 
 ### About me... 
-<p>My name is <b>Amur</b>, I explore ML and you can see the results of my learning in thi git.</p>
-<p>So far I am writing machine learning algorithms from scratch, but soon I will be doing more interesting projects!
-<p>II love listening to music 🎵, sometimes I design 💻 or play guitar 🎸, and I'm also interested in medicine 🧪.</p>
+<p>My name is <b>Amur</b>, I'm learning ML and here you can watch my progress.</p>
+<p>So far I am writing machine learning algorithms from scratch, but soon I will be doing more interesting projects!<\p>
+<p>I love listening to music 🎵, sometimes I design 💻 or play guitar 🎸, and I'm also interested in medicine 🧪.</p>
 <p><b>I hope you like it here!</b></p>
 
 ```python
