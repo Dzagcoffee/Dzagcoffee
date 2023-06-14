@@ -3,7 +3,7 @@
 
 ### About me... 
 <p>My name is <b>Amur</b>, I'm learning ML and here you can watch my progress.</p>
-<p>So far I am writing machine learning algorithms from scratch, but soon I will be doing more interesting projects!<\p>
+<p>So far I am writing machine learning algorithms from scratch, but soon I will be doing more interesting projects!</p>
 <p>I love listening to music 🎵, sometimes I design 💻 or play guitar 🎸, and I'm also interested in medicine 🧪.</p>
 <p><b>I hope you like it here!</b></p>
 
