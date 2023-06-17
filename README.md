@@ -16,5 +16,4 @@ torch.save({
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=5000&vCenter=true&width=500&lines=By+all+means%2C+let+us+light+our+darkest+hour!)](https://git.io/typing-svg)
-
-[!Typing SVG]([https://git.io/typing-svg](https://youtube.com/clip/Ugkx2UCg3oyGNIGjgB1CiCLBRd2IWM8EXGI9)https://youtube.com/clip/Ugkx2UCg3oyGNIGjgB1CiCLBRd2IWM8EXGI9)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/clip/Ugkx2UCg3oyGNIGjgB1CiCLBRd2IWM8EXGI9)
