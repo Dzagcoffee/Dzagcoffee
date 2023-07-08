@@ -7,7 +7,7 @@
 <p>I love listening to music 🎵, sometimes I design 💻 or play guitar 🎸, and I'm also interested in medicine 🧪.</p>
 <p><b>I hope you like it here!</b></p>
 
-<div align="center", markdown="1">
+<div align="center" markdown="1">
 ```python
 torch.save({
     'code': [python],
