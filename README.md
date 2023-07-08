@@ -7,7 +7,6 @@
 <p>I love listening to music 🎵, sometimes I design 💻 or play guitar 🎸, and I'm also interested in medicine 🧪.</p>
 <p><b>I hope you like it here!</b></p>
 
-<div class="myWrapper" markdown="1">
 ```python
 torch.save({
     'code': [python],
@@ -15,7 +14,6 @@ torch.save({
     'I love': ["Transformers!"],
 }, f="https://github.com/Dzagcoffee")
 ```
-</div>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=5000&vCenter=true&width=500&lines=By+all+means%2C+let+us+light+our+darkest+hour!)](https://git.io/typing-svg)
