@@ -1,5 +1,6 @@
 <h2>Hi, I'm Dzagcoffee! 👋</h2>
 <img align='right' width="400" src="https://64.media.tumblr.com/5267b4cbf5e94333b8b620fb87a09252/tumblr_prlro2RUTG1ue4ngy_500.gifv">
+<img align='right' width="400" src="https://i.ibb.co/N6PtfF5/Frame-16.png">
 
 ### About me... 
 <p>My name is <b>Amur</b>, I'm learning ML and here you can watch my progress.</p>
