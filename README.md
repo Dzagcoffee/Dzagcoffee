@@ -10,7 +10,8 @@
 ```python
 torch.save({
     'code': [python],
-    'tools': [numpy, pandas, sklearn, catboost, pytorch, nltk, transformers, ...],
+    'tools': [numpy, pandas, sklearn, catboost,
+              pytorch, nltk, transformers, ...],
     'I love': ["Transformers!"],
 }, f="https://github.com/Dzagcoffee")
 ```
